@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.color.otaassistant.app-mergeDebugResources-14:/values-my-rMM/values-my-rMM.xml",
+            "map": [
+                {
+                    "source": "D:\\#Oppo A74\\#AAA GOLD\\decompiled apk\\app\\src\\main\\res\\values-my-rMM\\strings.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "57,112,172,231,298,394",
+                        "endColumns": "53,58,57,65,94,88",
+                        "endOffsets": "106,166,225,292,388,478"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,109,168,226,292,387",
+                        "endColumns": "53,58,57,65,94,88",
+                        "endOffsets": "104,163,221,287,382,471"
+                    }
+                }
+            ]
+        }
+    ]
+}

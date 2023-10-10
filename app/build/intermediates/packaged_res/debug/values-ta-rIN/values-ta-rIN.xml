@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">புதுப்பிப்பு உதவியாளர்</string>
+    <string name="dialog_button_cancel">ரத்து</string>
+    <string name="dialog_button_install">நிறுவு</string>
+    <string name="dialog_message_version_id">பதிப்பு %s</string>
+    <string name="dialog_title_install_new_version">புதிய பதிப்பை நிறுவவா?</string>
+    <string name="notify_service_message">\"புதுப்பிப்பு உதவியாளர்\" இயங்குகிறது.</string>
+</resources>

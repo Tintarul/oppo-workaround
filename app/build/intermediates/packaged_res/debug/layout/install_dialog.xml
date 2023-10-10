@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:gravity="center" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="vertical" android:background="@drawable/center_alert_dialog_bg" android:layout_width="@dimen/dialog_install_width" android:layout_height="wrap_content">
+        <TextView android:textSize="@dimen/dialog_title_size" android:textStyle="bold" android:textColor="@color/dialog_text_color" android:gravity="center" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/dialog_install_title_margin_top" android:text="@string/dialog_title_install_new_version"/>
+        <TextView android:textSize="@dimen/dialog_content_size" android:textColor="@color/dialog_text_color" android:gravity="center_horizontal" android:id="@+id/content" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/dialog_install_content_margin_top" android:minHeight="@dimen/dialog_install_content_height" android:text="@string/dialog_message_version_id"/>
+        <RelativeLayout android:paddingTop="@dimen/dialog_install_btn_layout_padding_top" android:paddingBottom="@dimen/dialog_install_btn_layout_padding_bottom" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="@dimen/dialog_install_btn_layout_height">
+            <View android:background="@color/dialog_button_divider_color" android:layout_width="@dimen/dialog_btn_divider_width" android:layout_height="match_parent" android:layout_alignBottom="@+id/btn_layout" android:layout_centerHorizontal="true"/>
+            <LinearLayout android:orientation="horizontal" android:id="@+id/btn_layout" android:layout_width="match_parent" android:layout_height="wrap_content">
+                <TextView android:textSize="@dimen/dialog_btn_text_size" android:textColor="@drawable/text_button_selector" android:gravity="center" android:id="@+id/btn_cancel" android:clickable="true" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/dialog_button_cancel" android:layout_weight="1"/>
+                <TextView android:textSize="@dimen/dialog_btn_text_size" android:textColor="@drawable/text_button_selector" android:gravity="center" android:id="@+id/btn_install" android:clickable="true" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/dialog_button_install" android:layout_weight="1"/>
+            </LinearLayout>
+        </RelativeLayout>
+    </LinearLayout>
+</LinearLayout>

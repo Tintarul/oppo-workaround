@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">അപ്‌ഡേറ്റ് അസിസ്റ്റന്റ്</string>
+    <string name="dialog_button_cancel">റദ്ദാക്കുക</string>
+    <string name="dialog_button_install">ഇൻസ്റ്റാൾ ചെയ്യുക</string>
+    <string name="dialog_message_version_id">പതിപ്പ് %s</string>
+    <string name="dialog_title_install_new_version">പുതിയ പതിപ്പ് ഇൻസ്റ്റാൾ ചെയ്യണോ?</string>
+    <string name="notify_service_message">\"അപ്‌ഡേറ്റ് അസിസ്റ്റന്റ്\" പ്രവർത്തിക്കുന്നു.</string>
+</resources>

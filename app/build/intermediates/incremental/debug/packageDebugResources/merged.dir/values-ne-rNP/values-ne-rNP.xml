@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">अपडेट सहायक</string>
+    <string name="dialog_button_cancel">रद्द गर्नुहोस्</string>
+    <string name="dialog_button_install">इन्स्टल गर्नुहोस्</string>
+    <string name="dialog_message_version_id">संस्करण %s</string>
+    <string name="dialog_title_install_new_version">नयाँ संस्करण इन्स्टल गर्ने हो?</string>
+    <string name="notify_service_message">\"अपडेट सहायक\" चलिरहेको छ।</string>
+</resources>

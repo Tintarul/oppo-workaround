@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Eguneratu Laguntzailea</string>
+    <string name="dialog_button_cancel">Utzi</string>
+    <string name="dialog_button_install">Instalatu</string>
+    <string name="dialog_message_version_id">Bertsioa: %s</string>
+    <string name="dialog_title_install_new_version">Bertsio berria instalatu nahi duzu?</string>
+    <string name="notify_service_message">\"Eguneratu Laguntzailea\" abian da.</string>
+</resources>

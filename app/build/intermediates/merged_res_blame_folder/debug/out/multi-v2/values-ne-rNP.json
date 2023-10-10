@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.color.otaassistant.app-mergeDebugResources-14:/values-ne-rNP/values-ne-rNP.xml",
+            "map": [
+                {
+                    "source": "D:\\#Oppo A74\\#AAA GOLD\\decompiled apk\\app\\src\\main\\res\\values-ne-rNP\\strings.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "57,107,172,241,307,400",
+                        "endColumns": "48,63,67,64,91,78",
+                        "endOffsets": "101,166,235,301,394,474"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,104,168,236,301,393",
+                        "endColumns": "48,63,67,64,91,78",
+                        "endOffsets": "99,163,231,296,388,467"
+                    }
+                }
+            ]
+        }
+    ]
+}

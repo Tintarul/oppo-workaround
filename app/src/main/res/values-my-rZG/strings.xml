@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">အပ္ဒိတ္ အေထာက္အကူ</string>
+    <string name="dialog_button_cancel">မလုပ္ေတာ့</string>
+    <string name="dialog_button_install">အင္စေတာ</string>
+    <string name="dialog_message_version_id">ဗားရွင္း %s</string>
+    <string name="dialog_title_install_new_version">ဗားရွင္း အသစ္ကို အင္စေတာလုပ္မလား။</string>
+    <string name="notify_service_message">\"အပ္ဒိတ္ လက္ေထာက္\" အလုပ္ လုပ္ေနသည္။</string>
+</resources>

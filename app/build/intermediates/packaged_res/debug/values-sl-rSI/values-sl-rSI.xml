@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pomočnik za posodobitev</string>
+    <string name="dialog_button_cancel">Prekliči</string>
+    <string name="dialog_button_install">Namesti</string>
+    <string name="dialog_message_version_id">Različica %s</string>
+    <string name="dialog_title_install_new_version">Želite namestiti novo različico?</string>
+    <string name="notify_service_message">Pomočnik za posodobitev se izvaja.</string>
+</resources>

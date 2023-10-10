@@ -1,0 +1,1350 @@
+[
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/layout_notification_action.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/layout/notification_action.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/color_abc_secondary_text_material_light.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-mdpi_abc_tab_indicator_mtrl_alpha.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-mdpi/abc_tab_indicator_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_btn_checkbox_unchecked_mtrl.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/btn_checkbox_unchecked_mtrl.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_notice_logo.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/notice_logo.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/layout_abc_action_menu_item_layout.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xxhdpi_abc_textfield_search_activated_mtrl_alpha.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xxhdpi/abc_textfield_search_activated_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-hdpi_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-hdpi/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_abc_item_background_holo_light.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_abc_btn_default_mtrl_shape.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/layout_abc_activity_chooser_view_list_item.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/color_abc_search_url_text.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xxhdpi_abc_popup_background_mtrl_mult.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xxhdpi/abc_popup_background_mtrl_mult.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xhdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xhdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/layout_notification_template_part_chronometer.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-mdpi_abc_list_focused_holo.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-mdpi/abc_list_focused_holo.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/menu_example_menu.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/menu/example_menu.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_abc_textfield_search_material.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/anim_btn_checkbox_to_checked_box_inner_merged_animation.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/anim/btn_checkbox_to_checked_box_inner_merged_animation.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xxhdpi_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xxhdpi/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-mdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-mdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-ldrtl-xxhdpi_abc_spinner_mtrl_am_alpha.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-ldrtl-xxhdpi/abc_spinner_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-ldrtl-mdpi_abc_spinner_mtrl_am_alpha.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-ldrtl-mdpi/abc_spinner_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/layout_abc_popup_menu_header_item_layout.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-mdpi_abc_switch_track_mtrl_alpha.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-mdpi/abc_switch_track_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/layout_abc_action_bar_title_item.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xxhdpi_abc_textfield_default_mtrl_alpha.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xxhdpi/abc_textfield_default_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-mdpi_notification_bg_normal_pressed.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-mdpi/notification_bg_normal_pressed.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-hdpi_abc_btn_switch_to_on_mtrl_00012.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-hdpi/abc_btn_switch_to_on_mtrl_00012.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/color_abc_secondary_text_material_dark.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xxhdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xxhdpi/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/anim_abc_slide_in_top.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xxhdpi_abc_list_selector_disabled_holo_dark.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xxhdpi/abc_list_selector_disabled_holo_dark.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xxhdpi_abc_cab_background_top_mtrl_alpha.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xxhdpi/abc_cab_background_top_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-mdpi_abc_list_selector_disabled_holo_light.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-mdpi/abc_list_selector_disabled_holo_light.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/layout_abc_alert_dialog_material.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-watch_abc_dialog_material_background.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-watch/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_abc_tab_indicator_material.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xxhdpi_abc_textfield_search_default_mtrl_alpha.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xxhdpi/abc_textfield_search_default_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_abc_ratingbar_small_material.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xhdpi_notification_bg_low_normal.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xhdpi/notification_bg_low_normal.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/layout_abc_expanded_menu_layout.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-hdpi_abc_text_select_handle_right_mtrl.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-hdpi/abc_text_select_handle_right_mtrl.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/layout_abc_action_menu_layout.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xhdpi_notification_bg_normal_pressed.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xhdpi/notification_bg_normal_pressed.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/layout-watch_abc_alert_dialog_title_material.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/layout-watch/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xhdpi_abc_ab_share_pack_mtrl_alpha.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xhdpi/abc_ab_share_pack_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-hdpi_abc_text_select_handle_middle_mtrl.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-hdpi/abc_text_select_handle_middle_mtrl.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xxxhdpi_abc_tab_indicator_mtrl_alpha.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xxxhdpi/abc_tab_indicator_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/anim_abc_slide_out_bottom.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/layout_abc_alert_dialog_button_bar_material.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xhdpi_abc_list_pressed_holo_light.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xhdpi/abc_list_pressed_holo_light.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xhdpi_abc_btn_switch_to_on_mtrl_00001.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xhdpi/abc_btn_switch_to_on_mtrl_00001.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/layout_notification_template_custom_big.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/anim_btn_checkbox_to_unchecked_icon_null_animation.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/anim/btn_checkbox_to_unchecked_icon_null_animation.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-mdpi_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-mdpi/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xhdpi_abc_tab_indicator_mtrl_alpha.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xhdpi/abc_tab_indicator_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/layout_abc_cascading_menu_item_layout.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/layout/abc_cascading_menu_item_layout.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/animator_fragment_fade_enter.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/animator/fragment_fade_enter.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/interpolator_btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_abc_ic_clear_material.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/animator_fragment_open_enter.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/animator/fragment_open_enter.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-hdpi_abc_text_select_handle_left_mtrl.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-hdpi/abc_text_select_handle_left_mtrl.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/menu_example_menu2.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/menu/example_menu2.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_notification_bg.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/color_abc_color_highlight_material.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/color/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_abc_ic_menu_paste_mtrl_am_alpha.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/abc_ic_menu_paste_mtrl_am_alpha.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xxhdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xxhdpi/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xxxhdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xxxhdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_abc_ic_menu_copy_mtrl_am_alpha.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/abc_ic_menu_copy_mtrl_am_alpha.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_abc_ic_go_search_api_material.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_abc_btn_radio_material.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_abc_ic_menu_selectall_mtrl_alpha.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/abc_ic_menu_selectall_mtrl_alpha.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/anim_abc_popup_exit.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xxxhdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xxxhdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-hdpi_abc_list_divider_mtrl_alpha.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-hdpi/abc_list_divider_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-hdpi_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-hdpi/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_abc_btn_radio_material_anim.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/abc_btn_radio_material_anim.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-mdpi_abc_popup_background_mtrl_mult.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-mdpi/abc_popup_background_mtrl_mult.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-mdpi_abc_scrubber_track_mtrl_alpha.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-mdpi/abc_scrubber_track_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/anim_abc_grow_fade_in_from_bottom.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xhdpi_abc_text_select_handle_left_mtrl.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xhdpi/abc_text_select_handle_left_mtrl.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/layout_abc_dialog_title_material.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xhdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xhdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xhdpi_abc_list_longpressed_holo.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xhdpi/abc_list_longpressed_holo.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xhdpi_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xhdpi/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/layout_custom_dialog.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/layout_abc_screen_simple_overlay_action_mode.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xhdpi_abc_scrubber_primary_mtrl_alpha.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xhdpi/abc_scrubber_primary_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xxhdpi_abc_switch_track_mtrl_alpha.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xxhdpi/abc_switch_track_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/anim_abc_fade_in.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/color_abc_hint_foreground_material_light.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/color_abc_btn_colored_text_material.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_btn_checkbox_unchecked_to_checked_mtrl_animation.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/btn_checkbox_unchecked_to_checked_mtrl_animation.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_abc_ic_menu_share_mtrl_alpha.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/abc_ic_menu_share_mtrl_alpha.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_btn_radio_on_mtrl.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/btn_radio_on_mtrl.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xhdpi_abc_popup_background_mtrl_mult.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xhdpi/abc_popup_background_mtrl_mult.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xxxhdpi_abc_text_select_handle_right_mtrl.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xxxhdpi/abc_text_select_handle_right_mtrl.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/layout_notification_template_part_time.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xxxhdpi_abc_btn_switch_to_on_mtrl_00012.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xxxhdpi/abc_btn_switch_to_on_mtrl_00012.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/color_abc_background_cache_hint_selector_material_light.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/color/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_abc_ic_voice_search_api_material.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_abc_edit_text_material.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-mdpi_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-mdpi/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xxhdpi_abc_text_select_handle_left_mtrl.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xxhdpi/abc_text_select_handle_left_mtrl.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_abc_vector_test.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_abc_action_bar_item_background_material.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-mdpi_abc_cab_background_top_mtrl_alpha.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-mdpi/abc_cab_background_top_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_abc_ratingbar_indicator_material.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_abc_text_cursor_material.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-hdpi_abc_list_selector_disabled_holo_light.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-hdpi/abc_list_selector_disabled_holo_light.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/color_abc_primary_text_disable_only_material_light.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xxxhdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xxxhdpi/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/anim_abc_slide_in_bottom.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_notification_bg_low.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-hdpi_abc_switch_track_mtrl_alpha.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-hdpi/abc_switch_track_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/layout_install_dialog.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/layout/install_dialog.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xhdpi_abc_textfield_search_default_mtrl_alpha.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xhdpi/abc_textfield_search_default_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-night_center_alert_dialog_bg.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-night/center_alert_dialog_bg.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_abc_list_selector_holo_light.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/layout_select_dialog_multichoice_material.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xhdpi_notification_bg_low_pressed.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xhdpi/notification_bg_low_pressed.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xhdpi_abc_list_selector_disabled_holo_dark.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xhdpi/abc_list_selector_disabled_holo_dark.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_btn_radio_off_mtrl.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/btn_radio_off_mtrl.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/anim_abc_shrink_fade_out_from_bottom.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/layout_abc_list_menu_item_icon.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xxxhdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xxxhdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/animator_fragment_fade_exit.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/animator/fragment_fade_exit.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/color_switch_thumb_material_light.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_text_button_selector.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/text_button_selector.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-hdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-hdpi/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_abc_cab_background_internal_bg.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/color_abc_primary_text_material_light.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/color_abc_tint_switch_track.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_abc_seekbar_thumb_material.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/anim_abc_fade_out.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xxhdpi_abc_menu_hardkey_panel_mtrl_mult.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xxhdpi/abc_menu_hardkey_panel_mtrl_mult.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/anim_abc_tooltip_enter.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/anim/abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_btn_radio_off_to_on_mtrl_animation.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/btn_radio_off_to_on_mtrl_animation.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_abc_list_selector_holo_dark.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_notification_action_background.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/notification_action_background.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xxxhdpi_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xxxhdpi/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_abc_btn_check_material.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_abc_ic_arrow_drop_right_black_24dp.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-hdpi_abc_spinner_mtrl_am_alpha.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-hdpi/abc_spinner_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-mdpi_abc_list_divider_mtrl_alpha.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-mdpi/abc_list_divider_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xhdpi_abc_text_select_handle_right_mtrl.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xhdpi/abc_text_select_handle_right_mtrl.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xxxhdpi_abc_spinner_mtrl_am_alpha.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xxxhdpi/abc_spinner_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/layout_abc_action_mode_bar.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-hdpi_notification_bg_normal_pressed.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-hdpi/notification_bg_normal_pressed.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xhdpi_abc_btn_switch_to_on_mtrl_00012.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xhdpi/abc_btn_switch_to_on_mtrl_00012.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-hdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-hdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/layout_abc_alert_dialog_title_material.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/anim_abc_slide_out_top.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_abc_ratingbar_material.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xhdpi_abc_scrubber_track_mtrl_alpha.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xhdpi/abc_scrubber_track_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/anim_btn_radio_to_off_mtrl_dot_group_animation.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/anim/btn_radio_to_off_mtrl_dot_group_animation.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_abc_spinner_textfield_background_material.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-mdpi_notification_bg_low_pressed.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-mdpi/notification_bg_low_pressed.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xxhdpi_abc_list_pressed_holo_dark.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xxhdpi/abc_list_pressed_holo_dark.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-mdpi_abc_list_longpressed_holo.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-mdpi/abc_list_longpressed_holo.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_tooltip_frame_dark.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-mdpi_abc_textfield_search_activated_mtrl_alpha.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-mdpi/abc_textfield_search_activated_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xhdpi_abc_textfield_search_activated_mtrl_alpha.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xhdpi/abc_textfield_search_activated_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_notification_tile_bg.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xxxhdpi_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xxxhdpi/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xxhdpi_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xxhdpi/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/interpolator_btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-hdpi_abc_list_longpressed_holo.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-hdpi/abc_list_longpressed_holo.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xxhdpi_abc_list_pressed_holo_light.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xxhdpi/abc_list_pressed_holo_light.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/anim_btn_checkbox_to_unchecked_check_path_merged_animation.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/anim/btn_checkbox_to_unchecked_check_path_merged_animation.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xxhdpi_abc_text_select_handle_right_mtrl.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xxhdpi/abc_text_select_handle_right_mtrl.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-mdpi_abc_list_selector_disabled_holo_dark.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-mdpi/abc_list_selector_disabled_holo_dark.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xhdpi_abc_textfield_default_mtrl_alpha.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xhdpi/abc_textfield_default_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_abc_ic_ab_back_material.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_abc_btn_colored_material.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-hdpi_abc_scrubber_track_mtrl_alpha.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-hdpi/abc_scrubber_track_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-mdpi_abc_spinner_mtrl_am_alpha.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-mdpi/abc_spinner_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xhdpi_abc_list_divider_mtrl_alpha.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xhdpi/abc_list_divider_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-mdpi_notification_bg_normal.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-mdpi/notification_bg_normal.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-hdpi_abc_cab_background_top_mtrl_alpha.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-hdpi/abc_cab_background_top_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/interpolator_btn_radio_to_off_mtrl_animation_interpolator_0.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/interpolator/btn_radio_to_off_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/layout_support_simple_spinner_dropdown_item.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-hdpi_abc_menu_hardkey_panel_mtrl_mult.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-hdpi/abc_menu_hardkey_panel_mtrl_mult.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-mdpi_abc_textfield_default_mtrl_alpha.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-mdpi/abc_textfield_default_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-hdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-hdpi/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/anim_btn_radio_to_off_mtrl_ring_outer_animation.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/anim/btn_radio_to_off_mtrl_ring_outer_animation.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xhdpi_abc_text_select_handle_middle_mtrl.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xhdpi/abc_text_select_handle_middle_mtrl.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_notification_icon_background.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-mdpi_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-mdpi/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_btn_radio_on_to_off_mtrl_animation.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/btn_radio_on_to_off_mtrl_animation.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/color_abc_primary_text_material_dark.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_abc_seekbar_tick_mark_material.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xxxhdpi_abc_btn_switch_to_on_mtrl_00001.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xxxhdpi/abc_btn_switch_to_on_mtrl_00001.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/layout_abc_search_view.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_tooltip_frame_light.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/tooltip_frame_light.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xhdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xhdpi/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/layout_abc_list_menu_item_layout.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_abc_dialog_material_background.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-hdpi_abc_popup_background_mtrl_mult.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-hdpi/abc_popup_background_mtrl_mult.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xhdpi_abc_cab_background_top_mtrl_alpha.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xhdpi/abc_cab_background_top_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/interpolator_fast_out_slow_in.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/interpolator/fast_out_slow_in.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_abc_star_black_48dp.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/abc_star_black_48dp.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/anim_btn_checkbox_to_unchecked_box_inner_merged_animation.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/anim/btn_checkbox_to_unchecked_box_inner_merged_animation.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xxxhdpi_abc_text_select_handle_left_mtrl.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xxxhdpi/abc_text_select_handle_left_mtrl.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-mdpi_abc_textfield_activated_mtrl_alpha.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-mdpi/abc_textfield_activated_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/layout_abc_tooltip.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/layout/abc_tooltip.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/color_switch_thumb_material_dark.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/layout_notification_action_tombstone.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-hdpi_abc_list_pressed_holo_light.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-hdpi/abc_list_pressed_holo_light.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xhdpi_abc_list_pressed_holo_dark.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xhdpi/abc_list_pressed_holo_dark.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-mdpi_notify_panel_notification_icon_bg.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-mdpi/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_abc_ic_menu_cut_mtrl_alpha.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/abc_ic_menu_cut_mtrl_alpha.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-hdpi_abc_list_pressed_holo_dark.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-hdpi/abc_list_pressed_holo_dark.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xxhdpi_abc_btn_switch_to_on_mtrl_00001.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xxhdpi/abc_btn_switch_to_on_mtrl_00001.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xhdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xhdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-mdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-mdpi/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-hdpi_abc_scrubber_primary_mtrl_alpha.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-hdpi/abc_scrubber_primary_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xxhdpi_abc_textfield_activated_mtrl_alpha.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xxhdpi/abc_textfield_activated_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/anim_btn_radio_to_on_mtrl_ring_outer_animation.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/anim/btn_radio_to_on_mtrl_ring_outer_animation.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/animator_fragment_close_enter.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/animator/fragment_close_enter.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-mdpi_abc_menu_hardkey_panel_mtrl_mult.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-mdpi/abc_menu_hardkey_panel_mtrl_mult.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-ldrtl-xhdpi_abc_spinner_mtrl_am_alpha.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-ldrtl-xhdpi/abc_spinner_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-mdpi_abc_btn_switch_to_on_mtrl_00012.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-mdpi/abc_btn_switch_to_on_mtrl_00012.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xxhdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xxhdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xhdpi_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xhdpi/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xxhdpi_abc_tab_indicator_mtrl_alpha.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xxhdpi/abc_tab_indicator_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/layout-watch_abc_alert_dialog_button_bar_material.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/layout-watch/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/color_abc_primary_text_disable_only_material_dark.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/color_abc_tint_spinner.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/anim_abc_popup_enter.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/layout_abc_screen_toolbar.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/anim_btn_radio_to_on_mtrl_dot_group_animation.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/anim/btn_radio_to_on_mtrl_dot_group_animation.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/color_abc_tint_edittext.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/color_abc_hint_foreground_material_dark.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-mdpi_abc_textfield_search_default_mtrl_alpha.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-mdpi/abc_textfield_search_default_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-hdpi_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-hdpi/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-mdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-mdpi/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/layout_notification_template_icon_group.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-mdpi_abc_text_select_handle_right_mtrl.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-mdpi/abc_text_select_handle_right_mtrl.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_abc_list_selector_background_transition_holo_dark.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xhdpi_abc_textfield_activated_mtrl_alpha.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xhdpi/abc_textfield_activated_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xxhdpi_abc_list_focused_holo.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xxhdpi/abc_list_focused_holo.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xhdpi_notification_bg_normal.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xhdpi/notification_bg_normal.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-hdpi_notification_bg_low_pressed.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-hdpi/notification_bg_low_pressed.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-hdpi_abc_textfield_search_activated_mtrl_alpha.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-hdpi/abc_textfield_search_activated_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-hdpi_notify_panel_notification_icon_bg.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-hdpi/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/animator_fragment_close_exit.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/animator/fragment_close_exit.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/color_abc_tint_default.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-mdpi_abc_btn_switch_to_on_mtrl_00001.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-mdpi/abc_btn_switch_to_on_mtrl_00001.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-hdpi_abc_list_selector_disabled_holo_dark.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-hdpi/abc_list_selector_disabled_holo_dark.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/color_abc_tint_btn_checkable.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_center_alert_dialog_bg.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/center_alert_dialog_bg.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xxhdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xxhdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-ldrtl-hdpi_abc_spinner_mtrl_am_alpha.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-ldrtl-hdpi/abc_spinner_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-hdpi_abc_list_focused_holo.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-hdpi/abc_list_focused_holo.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xxhdpi_abc_list_selector_disabled_holo_light.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xxhdpi/abc_list_selector_disabled_holo_light.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/xml_shared_path.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/xml/shared_path.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_abc_list_selector_background_transition_holo_light.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_abc_cab_background_top_material.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-mdpi_notification_bg_low_normal.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-mdpi/notification_bg_low_normal.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/layout_abc_screen_simple.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_abc_list_divider_material.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/anim_btn_checkbox_to_checked_box_outer_merged_animation.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/anim/btn_checkbox_to_checked_box_outer_merged_animation.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-hdpi_abc_textfield_activated_mtrl_alpha.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-hdpi/abc_textfield_activated_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/animator_fragment_open_exit.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/animator/fragment_open_exit.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/layout_abc_action_bar_up_container.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xxhdpi_abc_text_select_handle_middle_mtrl.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xxhdpi/abc_text_select_handle_middle_mtrl.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/layout_abc_list_menu_item_checkbox.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/layout_abc_activity_chooser_view.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-mdpi_abc_text_select_handle_left_mtrl.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-mdpi/abc_text_select_handle_left_mtrl.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-mdpi_abc_list_pressed_holo_light.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-mdpi/abc_list_pressed_holo_light.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_abc_item_background_holo_dark.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/layout_abc_search_dropdown_item_icons_2line.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-hdpi_notification_bg_low_normal.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-hdpi/notification_bg_low_normal.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_abc_seekbar_track_material.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/layout_abc_select_dialog_material.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xhdpi_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xhdpi/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xxxhdpi_abc_switch_track_mtrl_alpha.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xxxhdpi/abc_switch_track_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/anim_btn_radio_to_off_mtrl_ring_outer_path_animation.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/anim/btn_radio_to_off_mtrl_ring_outer_path_animation.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xxhdpi_abc_list_longpressed_holo.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xxhdpi/abc_list_longpressed_holo.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_abc_switch_thumb_material.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xhdpi_abc_spinner_mtrl_am_alpha.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xhdpi/abc_spinner_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-hdpi_abc_ab_share_pack_mtrl_alpha.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-hdpi/abc_ab_share_pack_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/anim_btn_checkbox_to_checked_icon_null_animation.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/anim/btn_checkbox_to_checked_icon_null_animation.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_btn_checkbox_checked_to_unchecked_mtrl_animation.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/btn_checkbox_checked_to_unchecked_mtrl_animation.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/interpolator_btn_radio_to_on_mtrl_animation_interpolator_0.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/interpolator/btn_radio_to_on_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/layout_abc_action_mode_close_item_material.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/interpolator_btn_checkbox_checked_mtrl_animation_interpolator_0.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/layout_abc_list_menu_item_radio.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/layout_abc_screen_content_include.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xxhdpi_abc_ab_share_pack_mtrl_alpha.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xxhdpi/abc_ab_share_pack_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/color_abc_tint_seek_thumb.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/layout_select_dialog_item_material.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xhdpi_abc_list_selector_disabled_holo_light.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xhdpi/abc_list_selector_disabled_holo_light.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-hdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-hdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/color_abc_btn_colored_borderless_text_material.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/layout_abc_popup_menu_item_layout.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-hdpi_abc_tab_indicator_mtrl_alpha.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-hdpi/abc_tab_indicator_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_abc_ic_search_api_material.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-mdpi_abc_scrubber_primary_mtrl_alpha.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-mdpi/abc_scrubber_primary_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/anim_abc_tooltip_exit.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/anim/abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/anim_btn_radio_to_on_mtrl_ring_outer_path_animation.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/anim/btn_radio_to_on_mtrl_ring_outer_path_animation.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xhdpi_abc_menu_hardkey_panel_mtrl_mult.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xhdpi/abc_menu_hardkey_panel_mtrl_mult.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-mdpi_abc_list_pressed_holo_dark.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-mdpi/abc_list_pressed_holo_dark.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xxhdpi_abc_list_divider_mtrl_alpha.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xxhdpi/abc_list_divider_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-ldrtl-xxxhdpi_abc_spinner_mtrl_am_alpha.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-ldrtl-xxxhdpi/abc_spinner_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xhdpi_abc_switch_track_mtrl_alpha.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xhdpi/abc_switch_track_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/interpolator_btn_checkbox_checked_mtrl_animation_interpolator_1.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_1.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/color_abc_background_cache_hint_selector_material_dark.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/color/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xhdpi_notify_panel_notification_icon_bg.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xhdpi/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-hdpi_notification_bg_normal.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-hdpi/notification_bg_normal.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_abc_ic_menu_overflow_material.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-mdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-mdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/layout_select_dialog_singlechoice_material.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-mdpi_abc_text_select_handle_middle_mtrl.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-mdpi/abc_text_select_handle_middle_mtrl.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-hdpi_abc_textfield_search_default_mtrl_alpha.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-hdpi/abc_textfield_search_default_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-hdpi_abc_textfield_default_mtrl_alpha.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-hdpi/abc_textfield_default_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-hdpi_abc_btn_switch_to_on_mtrl_00001.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-hdpi/abc_btn_switch_to_on_mtrl_00001.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xxhdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xxhdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_abc_control_background_material.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/abc_control_background_material.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_abc_star_half_black_48dp.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/abc_star_half_black_48dp.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-hdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-hdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xxhdpi_abc_scrubber_track_mtrl_alpha.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xxhdpi/abc_scrubber_track_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/anim_fragment_fast_out_extra_slow_in.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/anim/fragment_fast_out_extra_slow_in.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_test_level_drawable.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/test_level_drawable.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xxhdpi_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xxhdpi/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xxhdpi_abc_spinner_mtrl_am_alpha.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xxhdpi/abc_spinner_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-mdpi_abc_ab_share_pack_mtrl_alpha.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-mdpi/abc_ab_share_pack_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xhdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xhdpi/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xhdpi_abc_list_focused_holo.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xhdpi/abc_list_focused_holo.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xxhdpi_abc_btn_switch_to_on_mtrl_00012.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xxhdpi/abc_btn_switch_to_on_mtrl_00012.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_btn_checkbox_checked_mtrl.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/btn_checkbox_checked_mtrl.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-xxhdpi_abc_scrubber_primary_mtrl_alpha.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-xxhdpi/abc_scrubber_primary_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable-mdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable-mdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_abc_btn_check_material_anim.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/abc_btn_check_material_anim.xml"
+    },
+    {
+        "merged": "com.color.otaassistant.app-merged_res-16:/drawable_abc_btn_borderless_material.xml.flat",
+        "source": "com.color.otaassistant.app-main-18:/drawable/abc_btn_borderless_material.xml"
+    }
+]

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">يېڭىلاش ياردەمچىسى</string>
+    <string name="dialog_button_cancel">بىكار قىلىش</string>
+    <string name="dialog_button_install">قاچىلاش</string>
+    <string name="dialog_message_version_id">نەشىر نومۇرى: %s</string>
+    <string name="dialog_title_install_new_version">يېڭى نەشرىنى قاچىلاش</string>
+    <string name="notify_service_message">يېڭىلاش ياردەمچىسى مۇلازىمىتىنى ئىشلىتىۋاتىدۇ</string>
+</resources>

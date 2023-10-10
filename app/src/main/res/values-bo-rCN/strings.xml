@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">གསར་སྒྱུར་ལག་རོགས།</string>
+    <string name="dialog_button_cancel">འདོར་བ།</string>
+    <string name="dialog_button_install">སྒྲིག་འཇུག</string>
+    <string name="dialog_message_version_id">པར་གཞིའི་ཨང་། %s</string>
+    <string name="dialog_title_install_new_version">པར་གཞི་གསར་བ་སྒྲིག་འཇུག་བྱེད།</string>
+    <string name="notify_service_message">གསར་སྒྱུར་ལག་རོགས་ཞབས་ཞུ་བེད་སྤྱོད་བཞིན་ཡོད།</string>
+</resources>

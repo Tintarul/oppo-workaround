@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dialog_btn_pressed_text_color">#80545454</color>
+    <color name="dialog_button_divider_color">#33ffffff</color>
+    <color name="dialog_text_color">#ffffff</color>
+</resources>

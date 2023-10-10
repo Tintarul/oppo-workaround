@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pomoćnik za ažuriranje</string>
+    <string name="dialog_button_cancel">Otkaži</string>
+    <string name="dialog_button_install">Instaliraj</string>
+    <string name="dialog_message_version_id">Verzija %s</string>
+    <string name="dialog_title_install_new_version">Želite li instalirati novu verziju?</string>
+    <string name="notify_service_message">„Pomoćnik za ažuriranje“ je pokrenut.</string>
+</resources>

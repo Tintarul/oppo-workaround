@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">अद्यतन सहाय्यक</string>
+    <string name="dialog_button_cancel">रद्द करा</string>
+    <string name="dialog_button_install">स्थापित करा</string>
+    <string name="dialog_message_version_id">आवृत्ती %s</string>
+    <string name="dialog_title_install_new_version">नवीन आवृत्ती स्थापित करायची?</string>
+    <string name="notify_service_message">\"अद्यतन सहाय्यक\" चालू आहे.</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pembantu Kemas Kini</string>
+    <string name="dialog_button_cancel">Batal</string>
+    <string name="dialog_button_install">Pasang</string>
+    <string name="dialog_message_version_id">Versi %s</string>
+    <string name="dialog_title_install_new_version">Pasang versi baharu?</string>
+    <string name="notify_service_message">\"Pembantu Kemas Kini\" sedang berjalan.</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ਸਹਾਇਕ ਅਪਡੇਟ ਕਰੋ</string>
+    <string name="dialog_button_cancel">ਰੱਦ ਕਰੋ</string>
+    <string name="dialog_button_install">ਸਥਾਪਿਤ ਕਰੋ</string>
+    <string name="dialog_message_version_id">ਸੰਸਕਰਨ %s</string>
+    <string name="dialog_title_install_new_version">ਕੀ ਨਵਾਂ ਸੰਸਕਰਨ ਸਥਾਪਤ ਕਰਨਾ ਹੈ?</string>
+    <string name="notify_service_message">\"ਅਪਡੇਟ ਸਹਾਇਕ\" ਚੱਲ ਰਿਹਾ ਹੈ।</string>
+</resources>

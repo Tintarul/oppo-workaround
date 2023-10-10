@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.color.otaassistant.app-mergeDebugResources-14:/values-xlarge-v4/values-xlarge-v4.xml",
+            "map": [
+                {
+                    "source": "D:\\#Oppo A74\\#AAA GOLD\\decompiled apk\\app\\src\\main\\res\\values-xlarge\\dimens.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "57,117,177,235",
+                        "endColumns": "58,58,56,56",
+                        "endOffsets": "111,171,229,287"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "197,256,315,372",
+                        "endColumns": "58,58,56,56",
+                        "endOffsets": "251,310,367,424"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\KKKKKKKK\\.gradle\\caches\\transforms-3\\5e3006a7bdb82b7c674f3e6fb71c061b\\transformed\\appcompat-1.4.1\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,126",
+                        "endColumns": "70,70",
+                        "endOffsets": "121,192"
+                    }
+                }
+            ]
+        }
+    ]
+}

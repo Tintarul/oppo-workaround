@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">جاڭارتۋ قولعاناتى</string>
+    <string name="dialog_button_cancel">كۇشىنەن قالدىرۋ</string>
+    <string name="dialog_button_install">ورناتۋ</string>
+    <string name="dialog_message_version_id">نۇسقا ٴنومىرى: %s</string>
+    <string name="dialog_title_install_new_version">جاڭا نۇسقانى ورناتۋ</string>
+    <string name="notify_service_message">جاڭارتۋ قولعاناتى قىزمەت وتەۋىن پايدالانۋدا</string>
+</resources>

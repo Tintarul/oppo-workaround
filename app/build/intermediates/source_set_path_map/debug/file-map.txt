@@ -1,0 +1,19 @@
+com.color.otaassistant.app-lifecycle-viewmodel-2.3.1-0 C:\Users\KKKKKKKK\.gradle\caches\transforms-3\0b9e100082220e64c8d1f68a91cb3061\transformed\lifecycle-viewmodel-2.3.1\res
+com.color.otaassistant.app-core-1.7.0-1 C:\Users\KKKKKKKK\.gradle\caches\transforms-3\33870b7cfd3f25d585603b60dc46536c\transformed\core-1.7.0\res
+com.color.otaassistant.app-jetified-emoji2-1.0.0-2 C:\Users\KKKKKKKK\.gradle\caches\transforms-3\3e62bec2761e8af63ffbf114ac3f6178\transformed\jetified-emoji2-1.0.0\res
+com.color.otaassistant.app-jetified-savedstate-1.1.0-3 C:\Users\KKKKKKKK\.gradle\caches\transforms-3\4d1c666f1b8355056fc3b4782b381e6e\transformed\jetified-savedstate-1.1.0\res
+com.color.otaassistant.app-lifecycle-runtime-2.4.0-4 C:\Users\KKKKKKKK\.gradle\caches\transforms-3\5a5f33ad0582281223e2a10208f3e3ef\transformed\lifecycle-runtime-2.4.0\res
+com.color.otaassistant.app-appcompat-1.4.1-5 C:\Users\KKKKKKKK\.gradle\caches\transforms-3\5e3006a7bdb82b7c674f3e6fb71c061b\transformed\appcompat-1.4.1\res
+com.color.otaassistant.app-jetified-appcompat-resources-1.4.1-6 C:\Users\KKKKKKKK\.gradle\caches\transforms-3\6f134a1d5539e1aac37ae91ac92d5aea\transformed\jetified-appcompat-resources-1.4.1\res
+com.color.otaassistant.app-jetified-startup-runtime-1.0.0-7 C:\Users\KKKKKKKK\.gradle\caches\transforms-3\708e9b286f12bdfd127881b16c817ae7\transformed\jetified-startup-runtime-1.0.0\res
+com.color.otaassistant.app-fragment-1.3.6-8 C:\Users\KKKKKKKK\.gradle\caches\transforms-3\a32f0fc394ec8eb2e785217d1c19de4d\transformed\fragment-1.3.6\res
+com.color.otaassistant.app-jetified-emoji2-views-helper-1.0.0-9 C:\Users\KKKKKKKK\.gradle\caches\transforms-3\d3e9d1d5917695c8a4f2fa51f1f36b86\transformed\jetified-emoji2-views-helper-1.0.0\res
+com.color.otaassistant.app-jetified-annotation-experimental-1.1.0-10 C:\Users\KKKKKKKK\.gradle\caches\transforms-3\e33d45b19c9661f6f6df2e29bb62444c\transformed\jetified-annotation-experimental-1.1.0\res
+com.color.otaassistant.app-jetified-lifecycle-process-2.4.0-11 C:\Users\KKKKKKKK\.gradle\caches\transforms-3\e6a9d2b8274b5df4cb21aaf703bb3f75\transformed\jetified-lifecycle-process-2.4.0\res
+com.color.otaassistant.app-pngs-12 D:\#Oppo A74\#AAA GOLD\decompiled apk\app\build\generated\res\pngs\debug
+com.color.otaassistant.app-resValues-13 D:\#Oppo A74\#AAA GOLD\decompiled apk\app\build\generated\res\resValues\debug
+com.color.otaassistant.app-packageDebugResources-14 D:\#Oppo A74\#AAA GOLD\decompiled apk\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.color.otaassistant.app-packageDebugResources-15 D:\#Oppo A74\#AAA GOLD\decompiled apk\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.color.otaassistant.app-merged_res-16 D:\#Oppo A74\#AAA GOLD\decompiled apk\app\build\intermediates\merged_res\debug
+com.color.otaassistant.app-debug-17 D:\#Oppo A74\#AAA GOLD\decompiled apk\app\src\debug\res
+com.color.otaassistant.app-main-18 D:\#Oppo A74\#AAA GOLD\decompiled apk\app\src\main\res

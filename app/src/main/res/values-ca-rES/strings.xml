@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Assistent d\'actualització</string>
+    <string name="dialog_button_cancel">Cancel·la</string>
+    <string name="dialog_button_install">Instal·la</string>
+    <string name="dialog_message_version_id">Versió %s</string>
+    <string name="dialog_title_install_new_version">Voleu instal·lar la nova versió?</string>
+    <string name="notify_service_message">L\'\"Assistent d\'actualització\" s\'està executant.</string>
+</resources>

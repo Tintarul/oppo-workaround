@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Yangilash vositasi</string>
+    <string name="dialog_button_cancel">Bekor qilish</string>
+    <string name="dialog_button_install">O‘rnatish</string>
+    <string name="dialog_message_version_id">Versiya %s</string>
+    <string name="dialog_title_install_new_version">Yangi versiyasi oʻrnatilsinmi?</string>
+    <string name="notify_service_message">“Yangilash vositasi” ishlamoqda.</string>
+</resources>

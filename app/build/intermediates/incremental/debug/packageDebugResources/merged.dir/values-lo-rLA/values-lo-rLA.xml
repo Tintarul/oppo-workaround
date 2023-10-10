@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ຕົວຊ່ວຍອັບເດດ</string>
+    <string name="dialog_button_cancel">ຍົກເລີກ</string>
+    <string name="dialog_button_install">ຕິດຕັ້ງ</string>
+    <string name="dialog_message_version_id">ລຸ້ນ %s</string>
+    <string name="dialog_title_install_new_version">ຕິດຕັ້ງລຸ້ນໃໝ່ບໍ?</string>
+    <string name="notify_service_message">\"ຕົວຊ່ວຍອັບເດດ\" ກຳລັງແລ່ນຢູ່.</string>
+</resources>

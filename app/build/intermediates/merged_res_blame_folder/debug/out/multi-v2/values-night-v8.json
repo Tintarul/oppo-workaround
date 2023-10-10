@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.color.otaassistant.app-mergeDebugResources-14:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "D:\\#Oppo A74\\#AAA GOLD\\decompiled apk\\app\\src\\main\\res\\values-night\\colors.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "57,124,189",
+                        "endColumns": "65,63,51",
+                        "endOffsets": "118,183,236"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,121,185",
+                        "endColumns": "65,63,51",
+                        "endOffsets": "116,180,232"
+                    }
+                },
+                {
+                    "source": "D:\\#Oppo A74\\#AAA GOLD\\decompiled apk\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "from": {
+                        "startLines": "2,4,6,8,10,12,14,16",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "57,148,253,358,475,598,721,836",
+                        "endLines": "3,5,7,9,11,13,15,17",
+                        "endColumns": "12,12,12,12,12,12,12,12",
+                        "endOffsets": "142,247,352,469,592,715,830,940"
+                    },
+                    "to": {
+                        "startLines": "5,7,9,11,13,15,17,19",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "237,326,429,532,647,768,889,1002",
+                        "endLines": "6,8,10,12,14,16,18,20",
+                        "endColumns": "12,12,12,12,12,12,12,12",
+                        "endOffsets": "321,424,527,642,763,884,997,1105"
+                    }
+                }
+            ]
+        }
+    ]
+}

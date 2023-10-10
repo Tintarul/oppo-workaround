@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Asistent aktualizácie</string>
+    <string name="dialog_button_cancel">Zrušiť</string>
+    <string name="dialog_button_install">Inštalovať</string>
+    <string name="dialog_message_version_id">Verzia %s</string>
+    <string name="dialog_title_install_new_version">Inštalovať novú verziu?</string>
+    <string name="notify_service_message">Asistent aktualizácie beží.</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">আপডেট সহায়ক</string>
+    <string name="dialog_button_cancel">বাতিল কৰক</string>
+    <string name="dialog_button_install">ইনষ্টল</string>
+    <string name="dialog_message_version_id">সংস্কৰণ %s</string>
+    <string name="dialog_title_install_new_version">নতুন সংস্কৰণ ইনষ্টল কৰিবনে?</string>
+    <string name="notify_service_message">\"আপডেট সহায়ক\" চলি আছে।</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">অ্যাসিস্ট্যান্ট আপডেট করুন</string>
+    <string name="dialog_button_cancel">বাতিল করুন</string>
+    <string name="dialog_button_install">ইনস্টল করুন</string>
+    <string name="dialog_message_version_id">%s সংস্করণ</string>
+    <string name="dialog_title_install_new_version">নতুন সংস্করণ ইনস্টল করবেন?</string>
+    <string name="notify_service_message">\"অ্যাসিস্ট্যান্ট আপডেট করুন\" চলমান আছে।</string>
+</resources>

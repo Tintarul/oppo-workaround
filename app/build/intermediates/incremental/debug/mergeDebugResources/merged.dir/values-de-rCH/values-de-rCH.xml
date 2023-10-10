@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aktualisierungsassistent</string>
+    <string name="dialog_button_cancel">Abbrechen</string>
+    <string name="dialog_button_install">Installieren</string>
+    <string name="dialog_message_version_id">Version %s</string>
+    <string name="dialog_title_install_new_version">Eine neue Version installieren?</string>
+    <string name="notify_service_message">\"Aktualisierungsassistent\" läuft.</string>
+</resources>

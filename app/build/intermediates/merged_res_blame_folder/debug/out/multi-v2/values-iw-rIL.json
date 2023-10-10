@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.color.otaassistant.app-mergeDebugResources-14:/values-iw-rIL/values-iw-rIL.xml",
+            "map": [
+                {
+                    "source": "D:\\#Oppo A74\\#AAA GOLD\\decompiled apk\\app\\src\\main\\res\\values-iw-rIL\\strings.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "57,107,161,217,280,364",
+                        "endColumns": "48,52,54,61,82,73",
+                        "endOffsets": "101,155,211,274,358,433"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,104,157,212,274,357",
+                        "endColumns": "48,52,54,61,82,73",
+                        "endOffsets": "99,152,207,269,352,426"
+                    }
+                }
+            ]
+        }
+    ]
+}

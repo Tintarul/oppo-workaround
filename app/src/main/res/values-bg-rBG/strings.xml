@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Асистент за актуализиране</string>
+    <string name="dialog_button_cancel">Отмяна</string>
+    <string name="dialog_button_install">Инсталиране</string>
+    <string name="dialog_message_version_id">Версия %s</string>
+    <string name="dialog_title_install_new_version">Инсталиране на нова версия?</string>
+    <string name="notify_service_message">„Асистент за актуализиране“ работи.</string>
+</resources>

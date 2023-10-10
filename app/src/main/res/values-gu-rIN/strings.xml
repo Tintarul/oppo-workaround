@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">અપડેટ સહાયક</string>
+    <string name="dialog_button_cancel">રદ કરો</string>
+    <string name="dialog_button_install">ઇન્સ્ટોલ કરો</string>
+    <string name="dialog_message_version_id">સંસ્કરણ %s</string>
+    <string name="dialog_title_install_new_version">નવું સંસ્કરણ ઇન્સ્ટોલ કરીએ?</string>
+    <string name="notify_service_message">\"અપડેટ આસિસ્ટન્ટ\" ચાલે છે.</string>
+</resources>

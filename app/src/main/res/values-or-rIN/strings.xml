@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ସହାୟକ ଅଦ୍ୟତିତ କରନ୍ତୁ</string>
+    <string name="dialog_button_cancel">ବାତିଲ୍ କରନ୍ତୁ</string>
+    <string name="dialog_button_install">ସଂସ୍ଥାପନ କରନ୍ତୁ</string>
+    <string name="dialog_message_version_id">ସଂସ୍କରଣ %s</string>
+    <string name="dialog_title_install_new_version">ନୂତନ ସଂସ୍କରଣ ସଂସ୍ଥାପିତ କରିବେ କି?</string>
+    <string name="notify_service_message">\"ସହାୟକ ଅଦ୍ୟତିତ କରନ୍ତୁ\" ଚାଲୁ ଅଛି।</string>
+</resources>

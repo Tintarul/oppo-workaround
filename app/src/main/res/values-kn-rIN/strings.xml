@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ನವೀಕರಣ ಸಹಾಯಕ</string>
+    <string name="dialog_button_cancel">ರದ್ದು</string>
+    <string name="dialog_button_install">ಸ್ಥಾಪಿಸಿ</string>
+    <string name="dialog_message_version_id">ಆವೃತ್ತಿ %s</string>
+    <string name="dialog_title_install_new_version">ಹೊಸ ಆವೃತ್ತಿಯನ್ನು ಸ್ಥಾಪಿಸುವುದೇ?</string>
+    <string name="notify_service_message">\"ನವೀಕರಣ ಸಹಾಯಕ\" ಚಾಲನೆಯಲ್ಲಿದೆ.</string>
+</resources>

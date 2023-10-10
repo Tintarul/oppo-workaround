@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تازہ کاری معاون</string>
+    <string name="dialog_button_cancel">منسوخ کریں</string>
+    <string name="dialog_button_install">انسٹال کریں</string>
+    <string name="dialog_message_version_id">ورژن %s</string>
+    <string name="dialog_title_install_new_version">نیا ورژن انسٹال کریں؟</string>
+    <string name="notify_service_message">\"تازہ کاری معاون\" چل رہا ہے۔</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">అప్‌డేట్ సహాయకం</string>
+    <string name="dialog_button_cancel">రద్దు చేయి</string>
+    <string name="dialog_button_install">ఇన్‌స్టాల్ చేయి</string>
+    <string name="dialog_message_version_id">వెర్షన్ %s</string>
+    <string name="dialog_title_install_new_version">కొత్త వెర్షన్‌ని ఇన్‌స్టాల్ చేయాలా?</string>
+    <string name="notify_service_message">\"అప్‌డేట్ సహాయకం\" రన్ అవుతోంది.</string>
+</resources>

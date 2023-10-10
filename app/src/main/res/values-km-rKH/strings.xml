@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">អាប់ដេតជំនួយការ</string>
+    <string name="dialog_button_cancel">បោះបង់</string>
+    <string name="dialog_button_install">ដំឡើង</string>
+    <string name="dialog_message_version_id">កំណែ %s</string>
+    <string name="dialog_title_install_new_version">ដំឡើងកំណែថ្មីឬ?</string>
+    <string name="notify_service_message">\"អាប់ដេតជំនួយការ\" កំពុងដំណើរការ</string>
+</resources>

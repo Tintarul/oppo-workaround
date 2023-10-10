@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Opdateringsassistent</string>
+    <string name="dialog_button_cancel">Annuller</string>
+    <string name="dialog_button_install">Installer</string>
+    <string name="dialog_message_version_id">Version %s</string>
+    <string name="dialog_title_install_new_version">Installer den nye version?</string>
+    <string name="notify_service_message">\"Opdateringsassistent\" kører.</string>
+</resources>
